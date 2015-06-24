@@ -1,0 +1,5 @@
+name = Parehas
+description = A utility module that sync DB across environments.
+version = 7.x-1.0
+core = 7.x
+package = "Other"
