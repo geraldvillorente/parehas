@@ -2,3 +2,5 @@ Parehas
 --------
 A Drush utility module that extends the capability of `sql-sync` command to 
 allow normal users to sync data across environments.
+
+NOTE: This module is not really for production yet.
